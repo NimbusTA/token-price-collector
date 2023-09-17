@@ -1,0 +1,10 @@
+__pycache__
+venv
+
+.idea
+.local
+.DS_Store
+
+*.cmd
+*.swp
+*.db
